@@ -1,70 +1,11 @@
-# Getting Started with Create React App
+# Netflix (Replica)
+I created a Netflix replica using React JS, a popular JavaScript library for building user interfaces. My replica mimics the look and feel of the original Netflix website, with features such as browsing  and viewing movie details.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2024-01-19 170615](https://github.com/RajeshKumar0905/Netflix_clone/assets/151514338/50213edc-36e5-4ac6-838b-7d26d564af42)
+![Screenshot 2024-01-19 170628](https://github.com/RajeshKumar0905/Netflix_clone/assets/151514338/a722082b-0881-4df0-ac52-a4057acacfd2)
+![Screenshot 2024-01-19 170641](https://github.com/RajeshKumar0905/Netflix_clone/assets/151514338/8782b7da-9de6-4537-8d60-848a5faaa452)
+![Screenshot 2024-01-19 170652](https://github.com/RajeshKumar0905/Netflix_clone/assets/151514338/2e79c9f7-061e-424f-8c92-fb29dc6aff1b)
+![Screenshot 2024-01-19 170700](https://github.com/RajeshKumar0905/Netflix_clone/assets/151514338/6068cdc2-2c06-467c-901a-98f2ceac9242)
+![Screenshot 2024-01-19 170721](https://github.com/RajeshKumar0905/Netflix_clone/assets/151514338/926b9ba2-40cf-40b9-8cae-5cf6f2114b63)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-01-19 170737](https://github.com/RajeshKumar0905/Netflix_clone/assets/151514338/96f65803-f4b3-4af5-95e4-4329ef3e59de)
